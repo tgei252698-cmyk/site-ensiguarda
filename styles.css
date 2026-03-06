@@ -1,0 +1,70 @@
+.cemlargura{
+    width: 100%;
+}
+.theone{
+    background-color: white;
+    height: 175px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.logo{
+    width: 300px;
+   align-items: center;
+}
+.butoes{ 
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 500px;
+}
+#botao-cabecalho{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(4, 132, 156);
+}
+#botao-inscricao{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(4, 132, 156);
+}
+#botao-alojamento{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color:darkseagreen;
+}
+#botao-avaliacao{
+    border-radius: 10px;
+    height: 60px;
+    width: 100px;
+    background-color:greenyellow;
+}
+.opcoes{ 
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    margin: 2%;
+}
+
+img {
+    width: 100%;
+}
+
+#col {
+    width: 100%;
+}
+.alinha_centro {
+    justify-content: center; 
+    text-align: center;
+  }
+
+.botoes-div {
+    display: flex;
+    justify-content: center;
+}
